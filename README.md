@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm a React Developer
 
-<!--
-**PAjay44/PAjay44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+Frontend developer specializing in React.js and modern web technologies. I love building user-friendly interfaces and learning new tech.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+HTML, CSS, JAVASCRIPT, REACT, REDUX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Advanced React Patterns
+- React Performance Optimization
+- Modern Frontend Architecture
+
+---
+💡 Open to collaborating on React projects!
