@@ -4,7 +4,7 @@
 Frontend developer specializing in React.js and modern web technologies. I love building user-friendly interfaces and learning new tech.
 
 ### 🛠️ Skills
-HTML, CSS, JAVASCRIPT, REACT, REDUX
+Html, Css, Javascript, React, Redux
 
 ### 🌱 Currently Learning
 - Advanced React Patterns
